@@ -1,3 +1,10 @@
+/*
+Black #000000
+White #FFFFFF
+Gray #707070
+Orange #BF7631
+*/
+
 *,
 *::before,
 *::after {
@@ -9,4 +16,12 @@
 html {
     box-sizing: border-box;
     font-size: 62.5%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div > p {
+    color: black;
+    background-color:white;
+    padding: 5px;
+
 }
