@@ -19,9 +19,14 @@ html {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-div > p {
+header {
     color: black;
     background-color:white;
     padding: 5px;
+}
 
+header ul {
+    list-style: none;
+    position: absolute;
+    display: inline;
 }
