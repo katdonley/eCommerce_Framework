@@ -56,3 +56,29 @@ nav li{
     top: 0.7rem;
     margin-left: 90%;
 }
+.home{
+    color: white;
+    display: flex; 
+}
+
+.text1{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+.text2{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    right: 10%;
+}
+.about{
+
+}
+.products img{
+    display:flex;
+    height: 398px;
+    width: 398px;
+    object-fit: cover;
+}
