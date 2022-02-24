@@ -28,5 +28,26 @@ header {
 header ul {
     list-style: none;
     position: absolute;
+    top: 0.7rem;
+    left: 1rem
+}
+
+header li{
     display: inline;
+    margin-left: 0.5rem;
+}
+
+header h2{
+    position: absolute;
+    display: inline;
+    top: 0.7rem;
+    margin-left: 50%;
+    
+}
+
+header img{
+    width: 20px;
+    height: auto;
+    position: absolute;
+    top: 1rem;
 }
