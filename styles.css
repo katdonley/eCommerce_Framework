@@ -8,7 +8,7 @@ Orange #BF7631
 *,
 *::before,
 *::after {
-    margin: 0;
+    margin: 2px;
     padding: 0;
     box-sizing: inherit;
 }
@@ -81,4 +81,26 @@ nav li{
     height: 398px;
     width: 398px;
     object-fit: cover;
+}
+
+.contact {
+
+}
+
+footer{
+    color: black;
+    background-color:#bf7631;
+    padding: 5px;
+}
+footer img{
+    height: 74px;
+    width: 74px;
+}
+
+.icons1{
+    margin-left: 40%;
+}
+
+.cara2 {
+    margin-left: 50%;  
 }
